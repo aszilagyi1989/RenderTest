@@ -1,3 +1,4 @@
 os
 requests
 streamlit
+uvicorn
